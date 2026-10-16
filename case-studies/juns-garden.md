@@ -1,7 +1,8 @@
-# Portfolio
+# Jun's Garden — case study
 
-Real work on a self-hosted web app and its release and security pipeline. Each
-item has a plain summary and a short engineering note. The public proof is the
+The engineering behind [Jun's Garden](../README.md#juns-garden--self-hosted-website-packaged-for-someone-else-to-run):
+a self-hosted web app and its release and security pipeline. Each item has a plain
+summary and a short engineering note. The public proof is the
 repository **[netnovaops-training/garden-for-all](https://github.com/netnovaops-training/garden-for-all)**.
 
 ---
